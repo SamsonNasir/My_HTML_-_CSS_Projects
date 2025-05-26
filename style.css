@@ -35,6 +35,7 @@
 }
 
 .image-container{
+    border: 4px solid #1D1E4C;
     border-radius: 45%;
     overflow: hidden;
 }
